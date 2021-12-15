@@ -1,3 +1,6 @@
+Aplikacja z dodawaniem zadań do listy, możliwością ustawienia daty oraz flagi important. Poniżej wyświetlanie listy zadań wg kolejności alfabetycznej. Możliwość usunięcia zadań.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
